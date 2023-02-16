@@ -1,7 +1,8 @@
 # Careers in Computer Science - Web Developer
 #### By: Stefan Tuczynski
 
-![image](https://images.techopedia.com/images/uploads/web-developer.jpg)
+<img src="https://images.techopedia.com/images/uploads/web-developer.jpg" width="450" height="300">
+
 # Table of contents
 
 |  Section  |        Content        |
@@ -13,6 +14,8 @@
 | 1.5       | Work Cited            |
 
 # 1.1 - The Basics
+
+
 
 
 
