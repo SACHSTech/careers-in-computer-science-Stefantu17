@@ -1,6 +1,5 @@
 # Careers in Computer Science - Web Developer
 #### By: Stefan Tuczynski
-#### ‎ 
 # Table of contents
 
 |  Section  |        Content        |
