@@ -37,6 +37,9 @@ Since Web Developers work in teams, they need to have **good communication and l
 ## Salary Range
 The average salary of a web developer in Canada is **$63,605/year**. With the range being $44K on the low end to $93K on the high end. This data is based off of 2799 salaries. 
 
+# 1.2 Standard Education
+
+<img src="https://www.transitionresourceguide.ca/sites/transitionresourceguide.ca/files/styles/hero_image/public/img/hero/Toronto_1.png?itok=lU6Pgn01" width="450" height="250">
 
 
 
