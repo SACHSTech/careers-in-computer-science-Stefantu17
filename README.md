@@ -29,10 +29,24 @@ Web Developers can be classified under 3 terms; frontend, backend, and full-stac
 As Web Developers need to be well-rounded in programming and mathematics. A Bachelor's Degree in Mathematics, Computer Science or related subject will prepare an individual for Web Development. Most Companies will require applicants to have a Bachelor's Degree or equivalent Job Experience to prove technical and non-technical ability 
 
 ## Required Technical Skills
-A Web Developer has a vast variety of technical skills that relate to website development, such as being fluent in **HTML, CSS, Javascript** for Frontend (design of the website), and **Java, Python, PHP, C#**, etc for Backend (functionality, handling data). 
+
+
+|  Skill                 |    Description  |
+| :-------:              | :---------------------: |
+| Programming (frontend) | When dealing with frontend web development, a web developer needs to be fluent in the programming languages used for frontend development, such as **Python, Java, C#, PHP**, etc.      |
+| Programming (backend)  | Web developers that work on the User Interface (UI) of a website, there are three key programming languages that are the backbone of a websites look, these are **HTML, CSS, and Javascript**     |
+| UI/UX Knowledge        | On top of knowing the essiential programming languages needed for all aspects of web development, Web Developers need to know the process behind UI/UX how to maximize user interface and user experience.  |
+
+
 
 ## Required Non-technical Skills
-Since Web Developers work in teams, they need to have **good communication and leadership skills** to be able to produce work effectively and efficiently in a team setting. Web developers also need **project management skills** as there will be many tasks assigned to them during a work day. 
+
+|  Skill                 |    Description  
+| :-------:              | :---------------------: 
+| Communication          | Web Developers usually work in teams, so in order to produce efficient and effective work, good communication skills are a major skill needed when working in a team setting. 
+| Leadership             | Being able to lead a group and deligate tasks to improve workflow is a charateristic of a good developer.    
+| Project Management     | Web Developers are tasked with many differnet assignmnets daily, having project management skills means you can manage your time, work efficiently when you are developing, and compelte tasks in a suitable order of importance. 
+
 
 ## Salary Range
 The average salary of a web developer in Canada is **$63,605/year**. With the range being $44K on the low end to $93K on the high end. This data is based off of 2799 salaries. 
