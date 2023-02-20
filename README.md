@@ -20,10 +20,10 @@ By: Stefan Tuczynski
 <img src="https://www.ironhack.com/static/287f23f4c46b052fc5c841f0e2b452c2/c1157/web.png" width="450" height="300">
 
 ## Career Description:
-A Web Developer is someone who is responsible for creating code that is used for website applications. 
+A Web Developer is someone who is responsible for creating code that is used for website applications. The code they create can be used to build the backbone of a websites functionality or to make the website look the way they want to it for users.
 
 ## Typical Duties and Responsibilites. 
-Web Developers can be classified under 3 terms; frontend, backend, and full-stack. Frontend developers work on the design and look of a website, Backend developers work on the functionality and data processing of a website, and Full-Stack combines the two. Web Developers work in teams where 
+Web Developers can be classified under 3 terms; frontend, backend, and full-stack. Frontend developers work on the design and look of a website, Backend developers work on the functionality and data processing of a website, and Full-Stack combines the two. 
 
 ## Education Requirements
 As Web Developers need to be well-rounded in programming and mathematics. A Bachelor's Degree in Mathematics, Computer Science or related subject will prepare an individual for Web Development. Most Companies will require applicants to have a Bachelor's Degree or equivalent Job Experience to prove technical and non-technical ability 
