@@ -55,6 +55,11 @@ The average salary of a web developer in Canada is **$63,605/year**. With the ra
 
 <img src="https://www.transitionresourceguide.ca/sites/transitionresourceguide.ca/files/styles/hero_image/public/img/hero/Toronto_1.png?itok=lU6Pgn01" width="450" height="250">
 
+## The University
+The University of Toronto offers a Computer Science program like no other program in Canada. The program prepares it's students for all aspects that relate to Computer Science, including Web Development. After first year, a student can decide to enroll in a Specialist, which can include courses in Web Development, Game Development, AI, and more. 
+
+## Sample First Year Courses
+
 
 
 
