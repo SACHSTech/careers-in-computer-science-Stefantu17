@@ -56,9 +56,31 @@ The average salary of a web developer in Canada is **$63,605/year**. With the ra
 <img src="https://www.transitionresourceguide.ca/sites/transitionresourceguide.ca/files/styles/hero_image/public/img/hero/Toronto_1.png?itok=lU6Pgn01" width="450" height="250">
 
 ## The University
-The University of Toronto offers a Computer Science program like no other program in Canada. The program prepares it's students for all aspects that relate to Computer Science, including Web Development. After first year, a student can decide to enroll in a Specialist, which can include courses in Web Development, Game Development, AI, and more. 
+The University of Toronto St. George Campus offers a Computer Science program like no other program in Canada. The program prepares it's students for all aspects that relate to Computer Science, including Web Development. After first year, a student can decide to enroll in a Specialist, which can include courses in Web Development, Game Development, AI, and more. 
 
-## Sample First Year Courses
+[Program Information Page](https://future.utoronto.ca/undergraduate-programs/computer-science/)
+
+## Entrance Requirements 
+ 
+ To be considered for admission at the University of Toronto's St. George Computer Science Program as an Ontario Student, you have or in progress of achieving: 
+
+ - A Ontario Secondary School Diploma (OSSD)
+ - A credit in Calculus & Vectors (MCV4U)
+ - A credit in English (ENG4U)
+ - Four credits in any other 4U/4M Grade 12 course.
+
+ A supplementary application is also required to be considered admission to the program.
+
+ ## Sample First Year Courses
+
+ Sample first year courses include: 
+
+ - MAT135H1 (Calculus 1), 
+ - CSC108H1 (Introduction to Computer Programming), 
+ - CSC165H1, (Mathematical Expression and Reasoning for Computer Science), 
+ - CSC110Y1 (Foundations of Computer Science I).
+
+
 
 
 
