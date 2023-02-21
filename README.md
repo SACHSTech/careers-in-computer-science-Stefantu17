@@ -176,4 +176,40 @@ There are many free resources online that can help build your technical skills t
 
 **Additional Skills:** React, TypeScript
 
+## 1.5 Work Cited
 
+“The Benefits of an Internship.” George Fox University, https://www.georgefox.edu/bruin-blog/posts/2022/benefits-of-internship-blog/index.html#:~:text=An%20internship%20provides%20you%20with,to%20showcase%20on%20your%20resume. 
+
+Canada, Employment and Social Development. “Web Developer - Edmonton, AB - Job Posting.” Web Developer - Edmonton, AB - Job Posting - Job Bank, Government of Canada / Gouvernement Du Canada, 23 Jan. 2023, https://www.jobbank.gc.ca/jobsearch/jobposting/37418916. 
+
+“Computer Science.” Computer Science | Academic Calendar, https://artsci.calendar.utoronto.ca/section/Computer-Science. 
+
+“Computer Science.” Future Students. University of Toronto, 6 Dec. 2021, https://future.utoronto.ca/undergraduate-programs/computer-science/. 
+
+Google Image Result for Https://i0.Wp.com/Learn.onemonth.com/Wp-Content/Uploads/2019/03/Codecademy-Platform.png?Fit=1385%2C715&amp;Ssl=1, https://images.app.goo.gl/3hVCLcVC2ycrJbcF6. 
+
+Google Image Result for Https://Miro.medium.com/Max/1400/1*uddaN0fXm60rw97EQtF0xw.Png, https://images.app.goo.gl/a4wTsj8s74645jw6A. 
+
+Google Image Result for Https://p9.Itc.cn/q_70/images01/20220430/705c2fbba4494e1fa0ed325b16c05146.Jpeg, https://images.app.goo.gl/RWv4pQDZBYgZfVzs8. 
+
+Google Image Result for Https://Www.carringtonwest.com/Rails/active_storage/Blobs/eyjfcmfpbhmionsibwvzc2fnzsi6ikjbahbbmkrosee9psisimv4cci6bnvsbcwichvyijoiymxvyl9pzcj9fq==--a1d4ec808cfbc47f300f9304b5b7d404beb9de41/shutterstock_420967090%20-%20copy%20-%20copy.Jpg, https://images.app.goo.gl/s5ViAVuo98nsHCHF8. 
+
+Google Image Result for Https://Www.evinapp.it/Wp-Content/Uploads/2020/08/team3.Jpg, https://images.app.goo.gl/HDJ8sStNUkg9qjP46. 
+
+Google Image Result for Https://Www.ironhack.com/Static/287f23f4c46b052fc5c841f0e2b452c2/c1157/Web.png, https://images.app.goo.gl/r2Xe8dSum8YiiiHf7. 
+
+Google Image Result for Https://Www.transitionresourceguide.ca/Sites/Transitionresourceguide.ca/Files/Styles/hero_image/Public/Img/Hero/toronto_1.Png?Itok=lu6pgn01, https://images.app.goo.gl/STdZRRATeYGK51DH8. 
+
+“How to Become a Web Developer (2023 Guide).” BrainStation®, https://brainstation.io/career-guides/how-to-become-a-web-developer#:~:text=To%20become%20a%20Web%20Developer%2C%20you%20should%20have%20an%20understanding,for%20communicating%20with%20programming%20languages. 
+
+How to Become a Web Developer (with Steps and Faqs) - Indeed Career Guide. https://ca.indeed.com/career-advice/finding-a-job/how-to-become-web-developer. 
+
+“How to Become a Web Developer.” Tutch Media, https://www.tutch.co.uk/blog/how-to-become-a-web-developer. 
+
+Jarvis, Chase. “The Power of Personal Projects.” CreativeLive Blog, 23 June 2022, https://www.creativelive.com/blog/the-power-of-personal-projects/#:~:text=Maybe%20you've%20been%20at,things%2C%20and%20explore%20your%20interests. 
+
+Job Search Canada | Indeed. https://ca.indeed.com/. 
+
+“Learn to Code - for Free.” Codecademy, https://www.codecademy.com/. 
+
+Salary: Web Developer (February, 2023) | Glassdoor. https://www.glassdoor.ca/Salaries/web-developer-salary-SRCH_KO0,13.htm. 
