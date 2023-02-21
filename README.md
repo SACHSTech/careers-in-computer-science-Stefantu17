@@ -76,19 +76,19 @@ The University of Toronto St. George Campus offers a Computer Science program li
 
  Sample first year courses include: 
 
- - MAT135H1 (Calculus 1), 
+ - [MAT135H1](https://artsci.calendar.utoronto.ca/course/mat135h1) (Calculus 1), 
 
    Teaches students the differential calculus to prepare for higher level calculus
 
- - MAT157Y1 (Analysis I)
+ - [MAT157Y1](https://artsci.calendar.utoronto.ca/course/mat157y1) (Analysis I)
 
    Builds on the calculus course by teaching concepts such as proofs, limits, continuity, etc.
 
- - CSC108H1 (Introduction to Computer Programming)
+ - [CSC108H1](https://artsci.calendar.utoronto.ca/course/csc108h1) (Introduction to Computer Programming)
 
    Introduces students the concept and fundamentals of programming, taught in Python.
  
- - CSC110Y1 (Foundations of Computer Science I) and CSC111H1 (Foundations of Computer Science II)
+ - [CSC110Y1](https://artsci.calendar.utoronto.ca/course/csc110y1) (Foundations of Computer Science I) and [CSC111H1](https://artsci.calendar.utoronto.ca/course/csc111h1) (Foundations of Computer Science II)
 
     Teaches the math and logic behind computer programming to prepare students for more specific higher year courses
 
@@ -115,7 +115,7 @@ Aquiring an internship or getting co-operative education through a program in un
 
 <img src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/03/codecademy-platform.png?fit=1385%2C715&ssl=1" width="600" height="320">
 
-There are many free resources online that can help build your technical skills to become a Web Developer. Some examples of these resources include Codecademy, a website that has self-learning courses on most mainstream programming languages, including the ones used in Web Development. Other examples include; YouTube, Harvard's CS50 course, code.org, and many other platforms. 
+There are many free resources online that can help build your technical skills to become a Web Developer. Some examples of these resources include [Codecademy](https://www.codecademy.com/), a website that has self-learning courses on most mainstream programming languages, including the ones used in Web Development. Other examples include; [YouTube](https://www.youtube.com/), [Harvard's CS50 course](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), [code.org](https://code.org/), and many other platforms. 
 
 ## 1.4 Real Jobs 
 
