@@ -189,7 +189,6 @@ There are many free resources online that can help build your technical skills t
 ## 1.5 Work Cited
 
 “The Benefits of an Internship.” George Fox University, https://www.georgefox.edu/bruin-blog/posts/2022/benefits-of-internship-blog/index.
-html#:~:text=An%20internship%20provides%20you%20with,to%20showcase%20on%20your%20resume. 
 
 Canada, Employment and Social Development. “Web Developer - Edmonton, AB - Job Posting.” Web Developer - Edmonton, AB - Job Posting - Job Bank, Government of Canada / Gouvernement Du Canada, 23 Jan. 2023, https://www.jobbank.gc.ca/jobsearch/jobposting/37418916. 
 
