@@ -78,7 +78,7 @@ The University of Toronto St. George Campus offers a Computer Science program li
 
  - [MAT135H1](https://artsci.calendar.utoronto.ca/course/mat135h1) (Calculus 1), 
 
-   Teaches students the differential calculus to prepare for higher level calculus
+   Teaches students the differential calculus to prepare for higher level calculus.
 
  - [MAT157Y1](https://artsci.calendar.utoronto.ca/course/mat157y1) (Analysis I)
 
@@ -90,7 +90,7 @@ The University of Toronto St. George Campus offers a Computer Science program li
  
  - [CSC110Y1](https://artsci.calendar.utoronto.ca/course/csc110y1) (Foundations of Computer Science I) and [CSC111H1](https://artsci.calendar.utoronto.ca/course/csc111h1) (Foundations of Computer Science II)
 
-    Teaches the math and logic behind computer programming to prepare students for more specific higher year courses
+    Teaches the math and logic behind computer programming to prepare students for more specific higher year courses.
 
 ### Degree Length
 The length of The University of Toronto St. George Computer Science Program including the ASIP (Arts & Science Internship Program), will take 5 years to achieve the degree.
@@ -118,12 +118,62 @@ Aquiring an internship or getting co-operative education through a program in un
 There are many free resources online that can help build your technical skills to become a Web Developer. Some examples of these resources include [Codecademy](https://www.codecademy.com/), a website that has self-learning courses on most mainstream programming languages, including the ones used in Web Development. Other examples include; [YouTube](https://www.youtube.com/), [Harvard's CS50 course](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), [code.org](https://code.org/), and many other platforms. 
 
 ## 1.4 Real Jobs 
+<img src="https://www.carringtonwest.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMkRoSEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1d4ec808cfbc47f300f9304b5b7d404beb9de41/shutterstock_420967090%20-%20Copy%20-%20Copy.jpg" width="700" height="430">
 
+### Entry Level Position: Web Developer (Avighna Technology Solutions Inc.)
 
+**Salary:** $30.50 / hour
 
+**City:** Edmonton, Alberta
 
+**Job Description:**
 
+- Consult with clients to develop and document Website requirements
+- Prepare mock-ups and storyboards
+- Develop Website architecture and determine hardware and software requirements
+- Source, select and organize information for inclusion and design the appearance, layout and flow of the Website
+- Create and optimize content for Website using a variety of graphics, database, animation and other software
+- Research and evaluate a variety of interactive media software products
+- Lead and co-ordinate multidisciplinary teams to develop Website graphics, content, capacity and interactivity
+- Conduct tests and perform security and quality controls
+- Plan, design, write, modify, integrate and test Web-site related code
+- Access and process information
+- Compile inventory reports
+- Organize and maintain inventory
+- Feed inventory
 
+**Additional Skills:** Photoshop, Premiere, MS Office, C++.
 
+### Mid Level Position: Web Developer (Be the Change Group)
+
+**Salary:** $60,000 to $72,800 per year
+
+**City:** Vancouver, British Columbia
+
+**Job Description:**
+
+"Be the Change Group is a women-led, B Corp looking for a skilled nerd with a drive to help make an impact through coding!"
+
+"As a web developer you will have the support of, and the opportunity to collaborate with, our design and development team. This position is best suited for someone whose finger is on the pulse of the latest web technologies, who is motivated to learn, and who can work really well with a team and independently. We offer flexible schedules, fun team activities, professional development funds, and so much more."
+
+**Additional Skills:** WordPress, GitHub version control
+
+### Mid Level Position: Frontend Engineer (AgencyAnalytics)
+
+**Salary:** $100,000–$120,000 per year
+
+**City:** Toronto, Ontario (Remote)
+
+**Job Description:**
+
+"Our Experience team is looking for a passionate Frontend Engineer to join us in creating amazing experiences for our users. Our team is one of the fastest growing within AgencyAnalytics! We work fast and iteratively to ensure our products are modern, easy to use and ultimately make our users happy. More importantly, we're looking for people to build a team of collaborative, supportive and high-skilled engineers that take our products to the next level."
+
+"You'll work with technologies like React, TypeScript, JavaScript and CSS to deliver industry-leading features. You'll have the opportunity work on a wide range of projects including high profile features, experimental UX/UI improvements, paying down technical debt, improving existing features and everything in between. We're undergoing sustained, high growth and there will be multiple career advancement opportunities for both managers and individual contributors!"
+
+"Whether you're a looking to grow your responsibilities, simply want a change, or you're just getting a start in development, we'd love to hear from you!"
+
+"This position is 100% remote and only eligible for those who are authorized to work in Canada."
+
+**Additional Skills:** React, TypeScript
 
 
