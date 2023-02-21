@@ -222,8 +222,6 @@ Jarvis, Chase. “The Power of Personal Projects.” CreativeLive Blog, 23 June 
 
 Job Search Canada | Indeed. https://ca.indeed.com/. 
 
-Job Search Canada | Indeed. https://ca.indeed.com/. 
-
 “Learn Computer Science. Change the World.” Code.org, https://code.org/. 
 
 “Learn to Code - for Free.” Codecademy, https://www.codecademy.com/. 
