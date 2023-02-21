@@ -3,7 +3,7 @@ By: Stefan Tuczynski
 
 <img src="https://images.techopedia.com/images/uploads/web-developer.jpg" width="600" height="400">
 
-## Table of contents
+## Table Of Contents
 
 |  Section  |        Content        |
 | :-------: | --------------------- |
@@ -15,7 +15,7 @@ By: Stefan Tuczynski
 
 ## 1.1 - The Basics
 
-### **Career Title:** Web Developer
+### Career Title: Web Developer
 
 <img src="https://www.ironhack.com/static/287f23f4c46b052fc5c841f0e2b452c2/c1157/web.png" width="450" height="300">
 
@@ -30,14 +30,11 @@ As Web Developers need to be well-rounded in programming and mathematics. A Bach
 
 ### Required Technical Skills
 
-
 |  Skill                 |    Description  |
 | :-------:              | :---------------------: |
 | Programming (frontend) | When dealing with frontend web development, a web developer needs to be fluent in the programming languages used for frontend development, such as **Python, Java, C#, PHP**, etc.      |
 | Programming (backend)  | Web developers that work on the User Interface (UI) of a website, there are three key programming languages that are the backbone of a websites look, these are **HTML, CSS, and Javascript**     |
 | UI/UX Knowledge        | On top of knowing the essiential programming languages needed for all aspects of web development, Web Developers need to know the process behind UI/UX how to maximize user interface and user experience.  |
-
-
 
 ### Required Non-technical Skills
 
@@ -46,7 +43,6 @@ As Web Developers need to be well-rounded in programming and mathematics. A Bach
 | Communication          | Web Developers usually work in teams, so in order to produce efficient and effective work, good communication skills are a major skill needed when working in a team setting. 
 | Leadership             | Being able to lead a group and deligate tasks to improve workflow is a charateristic of a good developer.    
 | Project Management     | Web Developers are tasked with many differnet assignmnets daily, having project management skills means you can manage your time, work efficiently when you are developing, and compelte tasks in a suitable order of importance. 
-
 
 ### Salary Range
 The average salary of a web developer in Canada is **$63,605/year**. With the range being $44K on the low end to $93K on the high end. This data is based off of 2799 salaries. 
@@ -62,38 +58,45 @@ The University of Toronto St. George Campus offers a Computer Science program li
 
 ### Entrance Requirements 
  
- To be considered for admission at the University of Toronto's St. George Computer Science Program as an Ontario student, the requirements are: 
+To be considered for admission at the University of Toronto's St. George Computer Science Program as an Ontario student, the requirements are:
 
- - A Ontario Secondary School Diploma (OSSD)
- - 6 Grade 12 U/M courses which must include: 
-   - A credit in Calculus & Vectors (MCV4U)
-   - A credit in English (ENG4U)
+- A Ontario Secondary School Diploma (OSSD)
+- 6 Grade 12 U/M courses which must include: 
+  - A credit in Calculus & Vectors (MCV4U)
+  - A credit in English (ENG4U)
 
+A supplementary application is also required to be considered admission to the program.
 
- A supplementary application is also required to be considered admission to the program.
+### First Year Courses
 
- ### Sample First Year Courses
+Courses required to take in the first year include:  
 
- Sample first year courses include: 
-
- - [MAT135H1](https://artsci.calendar.utoronto.ca/course/mat135h1) (Calculus 1), 
+- [MAT135H1](https://artsci.calendar.utoronto.ca/course/mat135h1) (Calculus 1), 
 
    Teaches students the differential calculus to prepare for higher level calculus.
 
- - [MAT157Y1](https://artsci.calendar.utoronto.ca/course/mat157y1) (Analysis I)
+- [MAT157Y1](https://artsci.calendar.utoronto.ca/course/mat157y1) (Analysis I)
 
    Builds on the calculus course by teaching concepts such as proofs, limits, continuity, etc.
 
- - [CSC108H1](https://artsci.calendar.utoronto.ca/course/csc108h1) (Introduction to Computer Programming)
+- [CSC108H1](https://artsci.calendar.utoronto.ca/course/csc108h1) (Introduction to Computer Programming)
 
    Introduces students the concept and fundamentals of programming, taught in Python.
  
- - [CSC110Y1](https://artsci.calendar.utoronto.ca/course/csc110y1) (Foundations of Computer Science I) and [CSC111H1](https://artsci.calendar.utoronto.ca/course/csc111h1) (Foundations of Computer Science II)
+- [CSC110Y1](https://artsci.calendar.utoronto.ca/course/csc110y1) (Foundations of Computer Science I) and [CSC111H1](https://artsci.calendar.utoronto.ca/course/csc111h1) (Foundations of Computer Science II)
 
-    Teaches the math and logic behind computer programming to prepare students for more specific higher year courses.
+   Teaches the math and logic behind computer programming to prepare students for more specific higher year courses.
+
+- [CSC148H1](https://artsci.calendar.utoronto.ca/course/csc148h1) (Introduction to Computer Science)
+
+   Course goes over basic algorithms, data structures, object-orientated programming, and other related computer science topics.
+
+- [CSC165H1](https://artsci.calendar.utoronto.ca/course/csc165h1) (Mathematical Expression and Reasoning for Computer Science) 
+
+   Introduction to abstraction and rigour. Teaches students about logical notation and reasoning, and integrates abstract math concepts into computer science. 
 
 ### Degree Length
-The length of The University of Toronto St. George Computer Science Program including the ASIP (Arts & Science Internship Program), will take 5 years to achieve the degree.
+The length of The University of Toronto St. George Computer Science Program including the ASIP (Arts & Science Internship Program), will take 5 years to achieve the degree. Otherwise, the degree takes 4 years to complete. 
 
 ## 1.3 Experiential Learning
 
@@ -144,6 +147,8 @@ There are many free resources online that can help build your technical skills t
 
 **Additional Skills:** Photoshop, Premiere, MS Office, C++.
 
+[Job Listing](https://www.jobbank.gc.ca/jobsearch/jobposting/37418916)
+
 ### Mid Level Position: Web Developer (Be the Change Group)
 
 **Salary:** $60,000 to $72,800 per year
@@ -157,6 +162,8 @@ There are many free resources online that can help build your technical skills t
 "As a web developer you will have the support of, and the opportunity to collaborate with, our design and development team. This position is best suited for someone whose finger is on the pulse of the latest web technologies, who is motivated to learn, and who can work really well with a team and independently. We offer flexible schedules, fun team activities, professional development funds, and so much more."
 
 **Additional Skills:** WordPress, GitHub version control
+
+[Job Listing](https://ca.indeed.com/jobs?q=Web+Developer+%2460%2C000&l=Canada&start=10&pp=gQAPAAAAAAAAAAAAAAAB-awRaAAoAQEBB1dNlQoBNDGGWvvFUHzcv6SVePQ4aBvtVUh6bDQ1znVkebMeZwAA&vjk=86d00883084f029a&advn=7588999670375758)
 
 ### Mid Level Position: Frontend Engineer (AgencyAnalytics)
 
@@ -175,6 +182,8 @@ There are many free resources online that can help build your technical skills t
 "This position is 100% remote and only eligible for those who are authorized to work in Canada."
 
 **Additional Skills:** React, TypeScript
+
+[Job Listing](https://ca.indeed.com/jobs?q=Web+Developer+%2460%2C000&l=Canada&start=10&pp=gQAPAAAAAAAAAAAAAAAB-awRaAAmAQEBBgFB42aOuvd4h6forVQZrdI5uZEP6UNPFZcPPgHMjp36-kQAAA&vjk=a4ab28a4843e0e64&advn=1213061919789664)
 
 ## 1.5 Work Cited
 
