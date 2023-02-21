@@ -178,13 +178,16 @@ There are many free resources online that can help build your technical skills t
 
 ## 1.5 Work Cited
 
-“The Benefits of an Internship.” George Fox University, https://www.georgefox.edu/bruin-blog/posts/2022/benefits-of-internship-blog/index.html#:~:text=An%20internship%20provides%20you%20with,to%20showcase%20on%20your%20resume. 
+“The Benefits of an Internship.” George Fox University, https://www.georgefox.edu/bruin-blog/posts/2022/benefits-of-internship-blog/index.
+html#:~:text=An%20internship%20provides%20you%20with,to%20showcase%20on%20your%20resume. 
 
 Canada, Employment and Social Development. “Web Developer - Edmonton, AB - Job Posting.” Web Developer - Edmonton, AB - Job Posting - Job Bank, Government of Canada / Gouvernement Du Canada, 23 Jan. 2023, https://www.jobbank.gc.ca/jobsearch/jobposting/37418916. 
 
 “Computer Science.” Computer Science | Academic Calendar, https://artsci.calendar.utoronto.ca/section/Computer-Science. 
 
 “Computer Science.” Future Students. University of Toronto, 6 Dec. 2021, https://future.utoronto.ca/undergraduate-programs/computer-science/. 
+
+“CS50's Introduction to Computer Science.” EdX, https://www.edx.org/course/introduction-computer-science-harvardx-cs50x. 
 
 Google Image Result for Https://i0.Wp.com/Learn.onemonth.com/Wp-Content/Uploads/2019/03/Codecademy-Platform.png?Fit=1385%2C715&amp;Ssl=1, https://images.app.goo.gl/3hVCLcVC2ycrJbcF6. 
 
@@ -209,6 +212,10 @@ How to Become a Web Developer (with Steps and Faqs) - Indeed Career Guide. https
 Jarvis, Chase. “The Power of Personal Projects.” CreativeLive Blog, 23 June 2022, https://www.creativelive.com/blog/the-power-of-personal-projects/#:~:text=Maybe%20you've%20been%20at,things%2C%20and%20explore%20your%20interests. 
 
 Job Search Canada | Indeed. https://ca.indeed.com/. 
+
+Job Search Canada | Indeed. https://ca.indeed.com/. 
+
+“Learn Computer Science. Change the World.” Code.org, https://code.org/. 
 
 “Learn to Code - for Free.” Codecademy, https://www.codecademy.com/. 
 
