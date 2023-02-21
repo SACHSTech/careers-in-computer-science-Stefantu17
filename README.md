@@ -9,7 +9,7 @@ By: Stefan Tuczynski
 | :-------: | --------------------- |
 | 1.1       | The Basics            |
 | 1.2       | Standard Education    |
-| 1.3       | Experimental Learning |
+| 1.3       | Experiential Learning |
 | 1.4       | Real Jobs             |
 | 1.5       | Work Cited            |
 
@@ -93,6 +93,19 @@ The University of Toronto St. George Campus offers a Computer Science program li
 
 ## Degree Length
 The length of The University of Toronto St. George Computer Science Program including the ASIP (Arts & Science Internship Program), will take 5 years to achieve the degree.
+
+# 1.3 Experiential Learning
+
+There are many ways to gain experience in in web development and develop your  technical and non-technical skills. Some of those ways include: 
+
+## Personal Projects
+
+<img src="https://miro.medium.com/max/1400/1*uddaN0fXm60rw97EQtF0xw.png" width="450" height="250">
+
+Personal projects are great for using the skills you already have and praciticing them by building or developing projects of your own. Personal projects can also get you started on building the skills you need to become a web developer. Projects that relate to web development can include a personal website, startup website, freelance projects, etc...
+
+## Internships or Co-operative Education
+
 
 
 
