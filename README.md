@@ -62,12 +62,13 @@ The University of Toronto St. George Campus offers a Computer Science program li
 
 ### Entrance Requirements 
  
- To be considered for admission at the University of Toronto's St. George Computer Science Program as an Ontario Student, you have or in progress of achieving: 
+ To be considered for admission at the University of Toronto's St. George Computer Science Program as an Ontario student, the requirements are: 
 
  - A Ontario Secondary School Diploma (OSSD)
- - A credit in Calculus & Vectors (MCV4U)
- - A credit in English (ENG4U)
- - Four credits in any other 4U/4M Grade 12 course.
+ - 6 Grade 12 U/M courses which must include: 
+   - A credit in Calculus & Vectors (MCV4U)
+   - A credit in English (ENG4U)
+
 
  A supplementary application is also required to be considered admission to the program.
 
@@ -114,7 +115,9 @@ Aquiring an internship or getting co-operative education through a program in un
 
 <img src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/03/codecademy-platform.png?fit=1385%2C715&ssl=1" width="600" height="320">
 
+There are many free resources online that can help build your technical skills to become a Web Developer. Some examples of these resources include Codecademy, a website that has self-learning courses on most mainstream programming languages, including the ones used in Web Development. Other examples include; YouTube, Harvard's CS50 course, code.org, and many other platforms. 
 
+## 1.4 Real Jobs 
 
 
 
