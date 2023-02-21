@@ -56,7 +56,7 @@ The average salary of a web developer in Canada is **$63,605/year**. With the ra
 <img src="https://www.transitionresourceguide.ca/sites/transitionresourceguide.ca/files/styles/hero_image/public/img/hero/Toronto_1.png?itok=lU6Pgn01" width="450" height="250">
 
 ## The University
-The University of Toronto St. George Campus offers a Computer Science program like no other program in Canada. The program prepares it's students for all aspects that relate to Computer Science, including Web Development. After first year, a student can decide to enroll in a Specialist, which can include courses in Web Development, Game Development, AI, and more. 
+The University of Toronto St. George Campus offers a Computer Science program like no other program in Canada. The program prepares it's students for all aspects that relate to Computer Science, including Web Development. Students can also decide to enroll in a Specialist, which can include courses in Web Development, Game Development, AI, and more. Students who complete this program will receive a Honours Bachelor of Science in Computer Science.
 
 [Program Information Page](https://future.utoronto.ca/undergraduate-programs/computer-science/)
 
@@ -76,9 +76,24 @@ The University of Toronto St. George Campus offers a Computer Science program li
  Sample first year courses include: 
 
  - MAT135H1 (Calculus 1), 
- - CSC108H1 (Introduction to Computer Programming), 
- - CSC165H1, (Mathematical Expression and Reasoning for Computer Science), 
- - CSC110Y1 (Foundations of Computer Science I).
+
+   Teaches students the differential calculus to prepare for higher level calculus
+
+ - MAT157Y1 (Analysis I)
+
+   Builds on the calculus course by teaching concepts such as proofs, limits, continuity, etc.
+
+ - CSC108H1 (Introduction to Computer Programming)
+
+   Introduces students the concept and fundamentals of programming, taught in Python.
+ 
+ - CSC110Y1 (Foundations of Computer Science I) and CSC111H1 (Foundations of Computer Science II)
+
+    Teaches the math and logic behind computer programming to prepare students for more specific higher year courses
+
+## Degree Length
+The length of The University of Toronto St. George Computer Science Program including the ASIP (Arts & Science Internship Program), will take 5 years to achieve the degree.
+
 
 
 
