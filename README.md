@@ -1,7 +1,7 @@
 # Careers in Computer Science - Web Developer
 By: Stefan Tuczynski
 
-<img src="https://images.techopedia.com/images/uploads/web-developer.jpg" width="450" height="300">
+<img src="https://images.techopedia.com/images/uploads/web-developer.jpg" width="600" height="400">
 
 ## Table of contents
 
@@ -53,7 +53,7 @@ The average salary of a web developer in Canada is **$63,605/year**. With the ra
 
 ## 1.2 Standard Education
 
-<img src="https://www.transitionresourceguide.ca/sites/transitionresourceguide.ca/files/styles/hero_image/public/img/hero/Toronto_1.png?itok=lU6Pgn01" width="450" height="250">
+<img src="https://www.transitionresourceguide.ca/sites/transitionresourceguide.ca/files/styles/hero_image/public/img/hero/Toronto_1.png?itok=lU6Pgn01" width="700" height="350">
 
 ### The University
 The University of Toronto St. George Campus offers a Computer Science program like no other program in Canada. The program prepares it's students for all aspects that relate to Computer Science, including Web Development. Students can also decide to enroll in a Specialist, which can include courses in Web Development, Game Development, AI, and more. Students who complete this program will receive a Honours Bachelor of Science in Computer Science.
@@ -100,19 +100,19 @@ There are many ways to gain experience in in web development and develop your  t
 
 ### Personal Projects
 
-<img src="https://miro.medium.com/max/1400/1*uddaN0fXm60rw97EQtF0xw.png" width="450" height="250">
+<img src="https://miro.medium.com/max/1400/1*uddaN0fXm60rw97EQtF0xw.png" width="700" height="400">
 
 Personal projects are great for using the skills you already have and praciticing them by building or developing projects of your own. Personal projects can also get you started on building the skills you need to become a web developer. Projects that relate to web development can include a personal website, startup website, freelance projects, etc...
 
 ### Internships or Co-operative Education
 
-<img src="https://lyncserve.com/images/design-team.jpg" width="450" height="250">
+<img src="https://lyncserve.com/images/design-team.jpg" width="500" height="300">
 
 Aquiring an internship or getting co-operative education through a program in university is a great way to get experience in the Web Development while getting paid. You gain the technical skills required for Web Development and put them into practice. You can also gain non-technical experience (depending on your work) by working with a team of people, developing communication skills and being exposed to a team setting in the workplace.
 
 ### Online Courses / Resources
 
-<img src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/03/codecademy-platform.png?fit=1385%2C715&ssl=1" width="450" height="250">
+<img src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/03/codecademy-platform.png?fit=1385%2C715&ssl=1" width="600" height="320">
 
 
 
