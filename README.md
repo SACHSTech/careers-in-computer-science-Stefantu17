@@ -26,7 +26,7 @@ A Web Developer is someone who is responsible for creating code that is used for
 Web Developers can be classified under 3 terms; frontend, backend, and full-stack. Frontend developers work on the design and look of a website, Backend developers work on the functionality and data processing of a website, and Full-Stack combines the two. 
 
 ### Education Requirements
-As Web Developers need to be well-rounded in programming and mathematics. A Bachelor's Degree in Mathematics, Computer Science or related subject will prepare an individual for Web Development. Most Companies will require applicants to have a Bachelor's Degree or equivalent Job Experience to prove technical and non-technical ability 
+As Web Developers need to be well-rounded in programming and mathematics. A Bachelor's Degree in Mathematics, Computer Science or related subject will prepare an individual for Web Development. Most Companies will require applicants to have a Bachelor's Degree or equivalent Job Experience to prove technical and non-technical ability.
 
 ### Required Technical Skills
 
@@ -35,13 +35,14 @@ As Web Developers need to be well-rounded in programming and mathematics. A Bach
 | Programming (frontend) | When dealing with frontend web development, a web developer needs to be fluent in the programming languages used for frontend development, such as **Python, Java, C#, PHP**, etc.      |
 | Programming (backend)  | Web developers that work on the User Interface (UI) of a website, there are three key programming languages that are the backbone of a websites look, these are **HTML, CSS, and Javascript**     |
 | UI/UX Knowledge        | On top of knowing the essiential programming languages needed for all aspects of web development, Web Developers need to know the process behind UI/UX how to maximize user interface and user experience.  |
+|   Software Development | Web Developers need to know how to create clean, readable code as members in their team will be dealing with shared code often. 
 
 ### Required Non-technical Skills
 
 |  Skill                 |    Description  
 | :-------:              | :---------------------: 
 | Communication          | Web Developers usually work in teams, so in order to produce efficient and effective work, good communication skills are a major skill needed when working in a team setting. 
-| Leadership             | Being able to lead a group and deligate tasks to improve workflow is a charateristic of a good developer.    
+| Leadership             | Being able to lead a group and deligate tasks to improve productivity and effiency is a charateristic of a good developer.  
 | Project Management     | Web Developers are tasked with many differnet assignmnets daily, having project management skills means you can manage your time, work efficiently when you are developing, and compelte tasks in a suitable order of importance. 
 
 ### Salary Range
@@ -73,7 +74,7 @@ Courses required to take in the first year include:
 
 - [MAT135H1](https://artsci.calendar.utoronto.ca/course/mat135h1) (Calculus 1), 
 
-   Teaches students the differential calculus to prepare for higher level calculus.
+   Teaches students differential calculus to prepare for higher level calculus.
 
 - [MAT157Y1](https://artsci.calendar.utoronto.ca/course/mat157y1) (Analysis I)
 
