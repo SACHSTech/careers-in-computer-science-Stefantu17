@@ -168,7 +168,7 @@ There are many free resources online that can help build your technical skills t
 
 [Job Listing](https://ca.indeed.com/jobs?q=Web+Developer+%2460%2C000&l=Canada&start=10&pp=gQAPAAAAAAAAAAAAAAAB-awRaAAoAQEBB1dNlQoBNDGGWvvFUHzcv6SVePQ4aBvtVUh6bDQ1znVkebMeZwAA&vjk=86d00883084f029a&advn=7588999670375758)
 
-### Mid Level Position: Frontend Engineer (AgencyAnalytics)
+### Senior Level Position: Frontend Engineer (AgencyAnalytics)
 
 **Salary:** $100,000–$120,000 per year
 
